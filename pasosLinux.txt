@@ -1,0 +1,7 @@
+0. abro docker : sudo systemctl start docker
+1. (VER QUE CORRE : docker ps)
+2. navego a la carpeta del proyecto culturarte
+3. entro a la carpeta DockerDB
+4. chmod +x script.sh ./script.sh
+5. navego a dist y java -jar culturarte.jar
+

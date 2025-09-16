@@ -2,39 +2,6 @@
 <project-private xmlns="http://www.netbeans.org/ns/project-private/1">
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
-        <group>
-            <file>file:/C:/Users/Juanpi/Desktop/culturarte/src/logica/estadoPropuesta.java</file>
-            <file>file:/C:/Users/Juanpi/Desktop/culturarte/src/presentacion/PanelConsultaColaborador.java</file>
-            <file>file:/C:/Users/Juanpi/Desktop/culturarte/src/presentacion/PanelUsuarios.java</file>
-            <file>file:/C:/Users/Juanpi/Desktop/culturarte/src/persistencia/ControladoraPersistencia.java</file>
-            <file>file:/C:/Users/Juanpi/Desktop/culturarte/src/presentacion/PanelConsultaProponente.java</file>
-            <file>file:/C:/Users/Juanpi/Desktop/culturarte/src/persistencia/colaboracionJpaController.java</file>
-            <file>file:/C:/Users/Juanpi/Desktop/culturarte/src/META-INF/persistence.xml</file>
-            <file>file:/C:/Users/Juanpi/Desktop/culturarte/src/logica/fabrica.java</file>
-            <file>file:/C:/Users/Juanpi/Desktop/culturarte/src/presentacion/PanelDejarSeguir.java</file>
-            <file>file:/C:/Users/Juanpi/Desktop/culturarte/src/presentacion/Pantalla.java</file>
-            <file>file:/C:/Users/Juanpi/Desktop/culturarte/src/presentacion/PanelAltaUsuario.java</file>
-            <file>file:/C:/Users/Juanpi/Desktop/culturarte/src/logica/usuario.java</file>
-            <file>file:/C:/Users/Juanpi/Desktop/culturarte/src/culturarte/Culturarte.java</file>
-            <file>file:/C:/Users/Juanpi/Desktop/culturarte/src/presentacion/PanelPropuestas.java</file>
-            <file>file:/C:/Users/Juanpi/Desktop/culturarte/src/presentacion/PanelColaborar.java</file>
-            <file>file:/C:/Users/Juanpi/Desktop/culturarte/src/logica/ictrl.java</file>
-            <file>file:/C:/Users/Juanpi/Desktop/culturarte/src/presentacion/PanelColaboraciones.java</file>
-            <file>file:/C:/Users/Juanpi/Desktop/culturarte/src/logica/categoria.java</file>
-            <file>file:/C:/Users/Juanpi/Desktop/culturarte/src/logica/colaborador.java</file>
-            <file>file:/C:/Users/Juanpi/Desktop/culturarte/src/presentacion/PanelSeguidos.java</file>
-            <file>file:/C:/Users/Juanpi/Desktop/culturarte/src/logica/proponente.java</file>
-            <file>file:/C:/Users/Juanpi/Desktop/culturarte/src/persistencia/usuarioJpaController.java</file>
-            <file>file:/C:/Users/Juanpi/Desktop/culturarte/src/presentacion/PanelIngreso.java</file>
-            <file>file:/C:/Users/Juanpi/Desktop/culturarte/src/logica/colaboracion.java</file>
-            <file>file:/C:/Users/Juanpi/Desktop/culturarte/src/presentacion/PanelCancelarColab.java</file>
-            <file>file:/C:/Users/Juanpi/Desktop/culturarte/src/logica/historialEstado.java</file>
-            <file>file:/C:/Users/Juanpi/Desktop/culturarte/src/logica/ctrl.java</file>
-            <file>file:/C:/Users/Juanpi/Desktop/culturarte/src/presentacion/PanelIngresoCategoria.java</file>
-            <file>file:/C:/Users/Juanpi/Desktop/culturarte/src/presentacion/PanelConsultaColab.java</file>
-            <file>file:/C:/Users/Juanpi/Desktop/culturarte/src/presentacion/PanelModifico.java</file>
-            <file>file:/C:/Users/Juanpi/Desktop/culturarte/src/logica/propuesta.java</file>
-            <file>file:/C:/Users/Juanpi/Desktop/culturarte/src/presentacion/PanelConsulta.java</file>
-        </group>
+        <group/>
     </open-files>
 </project-private>

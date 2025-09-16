@@ -1,0 +1,8 @@
+0. abro docker
+1. abro terminal
+2. navego a la carpeta del proyecto culturarte
+3. entro a la carpeta DockerDB
+4. ejecuto el script.bat
+5. navego a dist y ejecuto el jar
+
+
